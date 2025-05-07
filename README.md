@@ -4,7 +4,7 @@ TypeScript comes with many features. When we use JavaScript, we don't get any ty
 
 # Provide an example of using union and intersection types in TypeScript.
 
-Union: In union we will get the output as Books or Magazine only one. we can mix the attributes of books and magazine 
+Union: In union we will get the output as Books or Magazine only one. we can mix the attributes of books and magazine.  
 Intersection: In intersection we will get all the properties from books and magazine
 
 ```ts
